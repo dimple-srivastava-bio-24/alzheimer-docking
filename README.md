@@ -62,7 +62,9 @@ Donepezil acts as an acetylcholinesterase inhibitor, preventing the breakdown of
 
 🖼️ Visualization
 
-"Docking Result" (images/docking_result.png)
+![Docking Result](images/docking_result.png)
+
+*Figure: Docked complex of Donepezil with acetylcholinesterase showing binding interactions.*
 
 ---
 
