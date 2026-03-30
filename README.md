@@ -1,3 +1,12 @@
+# 🧬✨ Alzheimer’s Drug Docking Project  
+
+![Vina](...)(https://img.shields.io/badge/Docking-AutoDock_Vina-blue)
+![PyMOL](...)(https://img.shields.io/badge/Visualization-PyMOL-green)
+![Status](...)(https://img.shields.io/badge/Project-Complete-black)
+
+---
+
+> *Exploring molecular interactions through computational biology*  
 # alzheimer-docking
 This project demonstrates molecular docking of Donepezil with acetylcholinesterase using AutoDock Vina. The study evaluates binding affinity and visualizes protein–ligand interactions to understand the inhibitory mechanism relevant to Alzheimer’s disease.
 🧬✨ Alzheimer’s Drug Docking Project
