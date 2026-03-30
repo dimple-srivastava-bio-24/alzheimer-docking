@@ -50,7 +50,7 @@ Donepezil acts as an acetylcholinesterase inhibitor, preventing the breakdown of
 
 ---
 
-#📊 Results
+## 📊 Results
 
 ✨ Binding Affinity: -8.921 kcal/mol
 
