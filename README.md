@@ -1,4 +1,4 @@
-# 🧬✨ Alzheimer’s Drug Docking Project  
+# ✨ Alzheimer’s Drug Docking Project  
 
 ![Vina](...)(https://img.shields.io/badge/Docking-AutoDock_Vina-blue)
 ![PyMOL](...)(https://img.shields.io/badge/Visualization-PyMOL-green)
@@ -9,13 +9,13 @@
 > *Exploring molecular interactions through computational biology*  
 # alzheimer-docking
 This project demonstrates molecular docking of Donepezil with acetylcholinesterase using AutoDock Vina. The study evaluates binding affinity and visualizes protein–ligand interactions to understand the inhibitory mechanism relevant to Alzheimer’s disease.
-🧬✨ Alzheimer’s Drug Docking Project
+#✨ Alzheimer’s Drug Docking Project
 
 «Exploring molecular interactions through computational biology»
 
 ---
 
-🖤 Overview
+# Overview
 
 This project focuses on the molecular docking analysis of Donepezil with acetylcholinesterase, a key target in Alzheimer’s disease.
 The goal is to evaluate binding affinity and visualize protein–ligand interactions using computational tools.
@@ -50,7 +50,7 @@ Donepezil acts as an acetylcholinesterase inhibitor, preventing the breakdown of
 
 ---
 
-📊 Results
+#📊 Results
 
 ✨ Binding Affinity: -8.921 kcal/mol
 
@@ -68,7 +68,7 @@ Donepezil acts as an acetylcholinesterase inhibitor, preventing the breakdown of
 
 ---
 
-🧠 Key Insights
+# Key Insights
 
 - Strong binding supports inhibitory activity of Donepezil
 - Docking results align with known therapeutic mechanism
@@ -76,13 +76,13 @@ Donepezil acts as an acetylcholinesterase inhibitor, preventing the breakdown of
 
 ---
 
-💅 Author
+# Author
 
 Dimple Srivastava
 MSc Biotechnology | Computational Biology Enthusiast
 
 ---
 
-🖤 Quote
+# Quote
 
 «“Turning molecules into meaning through computation.”»
